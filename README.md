@@ -1,6 +1,8 @@
 # cloth-mask
 diy cloth mask
 
-purpose:  to promote the interest of making cloth mask for own use or as a hobby among communities.  Encourage various individual creativity of design ideas.   The purpose is not for clinical uses, care or other usages where strict reduction or prevention of virus transmission are required. 
+purpose:  to promote the interest of making cloth mask for own use or as a hobby among communities.  Encourage various individual creativity of design ideas.   
 
-criteria of design:  1) use cloth, 2) no elastic, 3) sewing machine not necessary.  
+Because of inevitable nature in diy cloth mask on lack of specification, testing, quality control and choice of material, the effectiveness would not be in anyway ascertained and hence its purpose should not include serious usages including in clinical environment, in care home or other in other situations where certain reduction or prevention of virus transmission are expected. 
+
+criteria of design:  1) use cloth, 2) with or without elastic, 3) with or without sewing machine.  
