@@ -31,8 +31,7 @@ references:
 * Dato VM, Hostler D, Hahn ME, 2006 Jun. Simple respiratory mask [letter]. Emerg Infect Dis [serial on the Internet]. 
 * Oberg T, Brosseau LM. Surgical mask filter and fit performance. Am J Infect	Control. 2008 May;36(4):276-82. doi: 10.1016/j.ajic.2007.07.008. PubMed PMID:	18455048.
 * Samy Rengasamy, Benjamin Eimer, Ronald E. Shaffer, 2010.  Simple Respiratory Protection—Evaluation of the Filtration Performance of Cloth Masks and Common Fabric Materials Against 20–1000 nm Size Particles 
-The Annals of Occupational Hygiene, Volume 54, Issue 7, October 2010, Pages 789–798, https://doi.org/10.1093/annhyg/meq044
-* cdc guidance: 
-https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html#studies 
-* Ma & Shutler, Mar 2020.  How to Sew a Face Mask - The New York Times, https://www.nytimes.com/article/how-to-make-face-mask-coronavirus.html.
+The Annals of Occupational Hygiene, Volume 54, Issue 7, October 2010, Pages 789–798, [doi.org](https://doi.org/10.1093/annhyg/meq044)
+* [cdc guidance: www.cdc.gov](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html#studies) 
+* Ma & Shutler, Mar 2020.  How to Sew a Face Mask - The New York Times, [www.nytimes.com](https://www.nytimes.com/article/how-to-make-face-mask-coronavirus.html).
 
