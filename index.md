@@ -1,6 +1,6 @@
 # diy home made cloth mask
 
-*mask that has been used before:* (image source: Dato VM & et al, 2006)
+*cloth mask has been used in previous epidmic.* (image source: Dato VM & et al, 2006)
 ![mask that has been used before.](images/maskManUsedBeforeV1.png)
 
 
@@ -15,7 +15,7 @@ version: 2020-04-v01
 4. examples:
     * [photo - fasten with elastic band ear loop](photoMaskElasticType600x600pixel.png)
     * [photo- fasten with head tie](photoMaskTieType600x600pixel.png)
-    * [photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric.png)
+    * ![photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric.png)
     
 5. Please contribute your thoughts, photos of masks you made and ideas via [github develoopment](https://github.com/chitakchan/cloth-mask).  
 
