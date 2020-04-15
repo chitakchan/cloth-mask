@@ -10,6 +10,7 @@ The files in this project include:
 
 1.  masks design - [pleat type v1] - they are inkscape svg file and pdf file incorporating the material and process in making the mask
 2.  masks examples - [pleat type v1]  - they are photos relating to the desing
+>* [photo 1](photoMaskTieType600x600pixel.png)
 
 Current issues to be resolved:
 
