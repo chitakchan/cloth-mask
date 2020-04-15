@@ -16,12 +16,12 @@ version: 2020-04-v01
     * [photo - fasten with elastic band ear loop](photoMaskElasticType600x600pixel.png)
     * [photo- fasten with head tie](photoMaskTieType600x600pixel.png)
     * [photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric.png)
-    ![photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric300x300pixel.png)
+    
     
 5. Please contribute your thoughts, photos of masks you made and ideas via [github develoopment](https://github.com/chitakchan/cloth-mask).  
 
 
-
+![photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric300x300pixel.png)
 
 
 
