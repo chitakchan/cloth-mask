@@ -17,7 +17,7 @@ version: 2020-04-v01
     * [photo- fasten with head tie](photoMaskTieType600x600pixel.png)
     * [photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric.png)
     
-5. Please contribute your thoughts and ideas via [github develoopment](https://chitakchan.github.io/cloth-mask/).    
+5. Please contribute your thoughts, photos of masks you made and ideas via [github develoopment](https://chitakchan.github.io/cloth-mask/).  
 
 
 
