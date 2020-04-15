@@ -9,8 +9,7 @@ criteria of design:  1) use cloth, 2) with or without elastic, 3) with or withou
 The files in this project include:
 
 1.  masks design - [pleat type v1] - they are inkscape svg file and pdf file incorporating the material and process in making the mask
-2.  masks examples - [pleat type v1]  - they are photos relating to the desing
->* [photo 1](photoMaskTieType600x600pixel.png)
+2.  masks examples - [pleat type v1]  - they are photos relating to the design
 
 Current issues to be resolved:
 
@@ -18,4 +17,4 @@ Current issues to be resolved:
 
 2. expecting lack of elastic band in the future.  use of cloth tie and fasten tie at the back of the head is clumsy for some users.  Try to use knots like tautline hitch (midshipman)  but difficult to unfasten and release.  
 
-[return](docs/index.md)
+[return](index.md)
