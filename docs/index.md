@@ -1,5 +1,7 @@
 # diy home made cloth mask
 
+version: 1a
+
 1. to make home made cloth mask for **own** use
 2. please read [specification](../README.md)
 3. The design and making process is illustrated in [this leaflet](../p01to11v4.png),
