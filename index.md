@@ -10,7 +10,7 @@ version: 2020-04-v01
 
 2. please read [specification](README.md)
 
-3. The design and making process is illustrated in [this leaflet](p01to11v4.png),
+3. The design and making process is illustrated in [this leaflet](p01to11v4.pdf),
 
 4. examples:
     * [photo - fasten with elastic band ear loop](photoMaskElasticType600x600pixel.png)
