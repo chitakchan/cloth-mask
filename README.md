@@ -8,8 +8,8 @@ criteria of design:  1) use cloth, 2) with or without elastic, 3) with or withou
 
 The files in this project include:
 
-1.  masks design - [pleat type v1] - they are inkscape svg file and pdf file incorporating the material and process in making the mask
-2.  masks examples - [pleat type v1]  - they are photos relating to the design
+1.  masks design  - they are inkscape svg file and pdf file incorporating the material and process in making the mask
+2.  masks examples - they are photos relating to the design
 
 Current issues to be resolved:
 
