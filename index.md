@@ -13,9 +13,9 @@ version: 2020-04-v01
 3. The design and making process is illustrated in [this leaflet](p01to11v4.pdf),
 
 4. examples:
-    * [photo - fasten with elastic band ear loop](photoMaskElasticType600x600pixel.png)
-    * [photo- fasten with head tie](photoMaskTieType600x600pixel.png)
-    * [photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric.png)
+    >* [photo - fasten with elastic band ear loop](photoMaskElasticType600x600pixel.png)
+    >* [photo- fasten with head tie](photoMaskTieType600x600pixel.png)
+    >* [photo - with four layers of T-shirt fabric](photoMaskElasticTypeOnThreeLayersOfTShirtFabric.png)
     
     
 5. Please contribute your thoughts, photos of masks you made and ideas via [github develoopment](https://github.com/chitakchan/cloth-mask).  
