@@ -1,6 +1,6 @@
 # diy home made cloth mask
 
-![mask that has been used before!](images/maskManUsedBefore.png)
+![mask that has been used before!](images/maskManUsedBeforeV1.png)
 
 version: 2020-04-v01 
 
