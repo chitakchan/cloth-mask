@@ -22,11 +22,13 @@ version: 2020-04-v01
 
 
 ![photo - with four layers of T-shirt fabric](images/photoMaskElasticTypeOnThreeLayersOfTShirtFabric300x300pixel.png)
+* with four layers of T-shirt fabric
 
 ![photo - with three layers of T-shirt fabric](images/photoMaskElasticTypeTrial30042020Px600.png)
+* with three layers of T-shirt fabric
 
-
-
+![photo- with two layers of T-shirt fabric but with pocket](images/photoMaskElasticTypeTrial30042020WithPocket500x350.png)
+* with two layers of T-shirt fabric but pocket for additional cover (kitchen tissue, etc)
 
 references:
 
