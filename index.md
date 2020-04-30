@@ -22,8 +22,11 @@ version: 2020-04-v01
 
 
 ![photo - with four layers of T-shirt fabric](images/photoMaskElasticTypeOnThreeLayersOfTShirtFabric300x300pixel.png)
+four layers of T-shirt, need to use hand sewing for the pleats
 
 
+![photo - with three layers of T-shirt fabric](images/photoMaskElasticTypeTrial30042020Px600.png)
+* three layers of T-shirt, pleats two thick to use sewing machine 
 
 
 references:
